@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "306385426678",
+    "project_id": "firestore-e3009",
+    "storage_bucket": "firestore-e3009.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306385426678:android:49043f57fab37db12df4d7",
+        "android_client_info": {
+          "package_name": "com.f55121027_Rosanti.firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306385426678-il5sruh1hf0mvfdd4ht8cbvb21p64g89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1f4zMXEA-bTIfMMalUo3iD9od6i_jMJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306385426678-il5sruh1hf0mvfdd4ht8cbvb21p64g89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
